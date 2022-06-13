@@ -1,0 +1,35 @@
+h1 {
+  color: red;
+  border: 0.5px black solid;
+  margin-top:  50px; 
+  margin-bottom: 50px;
+  
+}
+
+h4 {
+  color: brown;
+  font-family: 'roboto';
+ font-weight:400;
+}
+
+.head_one {
+  color: blueviolet;
+}
+h3 {
+  color: blue;
+}
+a {
+  color: orange;
+}
+#aya {
+  color: brown;
+}
+footer h4 {
+  color: crimson;
+}
+a:hover {
+  color: green;
+}
+li {
+    display: inline; 
+}
